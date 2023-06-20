@@ -1,0 +1,36 @@
+{
+  "URL": "http://localhost:8080/chatbot/#/chat",
+  "Params": [{
+      "config": true,
+      "paramInfo": [{
+          "Type": "Input_Request",
+		  "Name":"mynum",
+          "Value": "89.78"
+       },{
+           "Type": "Input_Request",
+		  "Name":"mynum",
+          "Value": "89.78"
+        },{
+           "Type": "Input_Request",
+		  "Name":"mynum",
+          "Value": "89.78"
+      }]
+   },{
+      "config":false,
+      "dialogElement": [
+        {
+                    "Type": "Input_Request",
+					"Name":"mynum",
+					"Value": "89.78"
+                },
+					{
+					"Type": "Input_Request",
+					"Name":"mynum",
+					"Value": "89.78"
+				}
+        ]
+		
+   }]
+			
+}
+   
